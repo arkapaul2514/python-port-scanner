@@ -8,16 +8,7 @@ A fast, multithreaded Python port scanner with banner grabbing, JSON export, col
 
 ---
 
-## Features
 
-- Fast multithreaded port scanning
-- Service banner grabbing
-- Export results as `.txt` and `.json`
-- Colorful CLI output (using `colorama`)
-- Optional Shodan integration for enriched recon
-- .env-based API key management (secure and simple)
-
----
 
 ## Installation
 
